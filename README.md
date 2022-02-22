@@ -9,7 +9,7 @@
 
     python3 main.py
     
-Note that the default dataset path is `~/data`. You can modify it in line [31](https://github.com/AISIGSJTU/AS/blob/main/main.py#L31), `main.py`.
+Note that the default path to datasets is `~/data`. You can modify it in line [31](https://github.com/AISIGSJTU/AS/blob/main/main.py#L31), `main.py`.
 
 ## Environment
 - python: 3.7.9
