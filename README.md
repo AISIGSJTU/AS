@@ -9,7 +9,7 @@
 
     python3 main.py
     
-Note that the default dataset path is `~/data`. You can modify it in line 31, `main.py`.
+Note that the default dataset path is `~/data`. You can modify it in line [31](https://github.com/AISIGSJTU/AS/blob/main/main.py#L31), `main.py`.
 
 ## Environment
 - python: 3.7.9
@@ -22,7 +22,7 @@ Note that the default dataset path is `~/data`. You can modify it in line 31, `m
 
 ## Core codes
     
-The Adversarial Sampling and calculation of the Adversarial loss is implemented in line 119 - 152, `utils.py`:
+The Adversarial Sampling and calculation of the Adversarial loss is implemented in line [119](https://github.com/AISIGSJTU/AS/blob/main/utils.py#L119) - [152](https://github.com/AISIGSJTU/AS/blob/main/utils.py#L152), `utils.py`:
 
     # Initialize epsilon with random unit Gaussian variable
     with torch.no_grad():
