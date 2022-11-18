@@ -62,14 +62,14 @@ The Adversarial Sampling and calculation of the Adversarial loss is implemented 
 ## Cite
 
     @article{Zhang_Hua_Song_Wang_Xue_Ma_Guan_2022, 
-    title={Improving Bayesian Neural Networks by Adversarial Sampling}, 
-    volume={36}, 
-    url={https://ojs.aaai.org/index.php/AAAI/article/view/21250}, 
-    DOI={10.1609/aaai.v36i9.21250}, 
-    number={9}, 
-    journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-    author={Zhang, Jiaru and Hua, Yang and Song, Tao and Wang, Hao and Xue, Zhengui and Ma, Ruhui and Guan, Haibing}, 
-    year={2022}, 
-    month={Jun.}, 
-    pages={10110-10117} 
+        title={Improving Bayesian Neural Networks by Adversarial Sampling}, 
+        volume={36}, 
+        url={https://ojs.aaai.org/index.php/AAAI/article/view/21250}, 
+        DOI={10.1609/aaai.v36i9.21250}, 
+        number={9}, 
+        journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+        author={Zhang, Jiaru and Hua, Yang and Song, Tao and Wang, Hao and Xue, Zhengui and Ma, Ruhui and Guan, Haibing}, 
+        year={2022}, 
+        month={Jun.}, 
+        pages={10110-10117} 
     }
